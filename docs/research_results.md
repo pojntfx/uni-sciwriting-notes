@@ -36,6 +36,9 @@ GPUs 4k-Videos in Echtzeit komprimieren kann. Das ist entscheidend
 dafür, ob das Konzept, das Sie sich ausgedacht haben, funktionieren
 kann. Wie gehen Sie mit diesem Literaturhinweis um?**:
 
+- Blogs sind oft keine akzeptablen Quellen
+- Direktes oder indirektes Zitat
+- Aussagen sind daher nicht alleinstehend belastbar!
 - Blogs haben meist kein Peer-Review etc. → Überprüfen, ob d. Autor:in im Fachgebiet Qualifikation vorweisen kann
 - Überprüfen, ob Autor:in Interessenkonflikte im Thema hat (z.B. NVIDIA-Entwickler:in → Hat Interesse, eigene Grafikkarten gut darzustellen)
 - Quellen/Referenzen des Blogs überprüfen
@@ -58,6 +61,7 @@ die auf diese Ergebnisse kommen?**:
 - Nach weiteren Quellen suchen
 - Nach Metaanalysen von Papern zum Thema suchen
 - Falls möglich beschriebenes Experiment lokal nachstellen (z.B. mit virtualisierter Netzwerkinfrastruktur)
+- Lektor kontaktieren: Derartige Differenzen bei den Ergebnissen im selben Jahr müssten eigentlich auffallen!
 
 **Was ist an der folgenden Darstellung kritisch?
 "Momentan ist mobiles Einkaufen noch Zukunftsmusik. Das wird sich aber laut
@@ -67,3 +71,5 @@ wird enorme Umsatzsteigerungen verzeichnen."**
 - "laut Studien" ist vage formuliert: Welche Studien?
 - "Zukunftsmusik" ist sehr informell; alternativ: "noch nicht Marktreif" oder "noch in der Entwicklungsphase"
 - "wird enorme Umsatzsteigerungen verzeichnen" ist eine Schlussfolgerung ohne Quelle; nur weil das mobile Einkaufen möglich wird, müssen diese nicht unbedingt in Umsatzsteigerungen resultieren
+- Der wertende Schreibstil is effekthasschend und lässt darauf schließen, dass d. Autor:in voreingenommen ist
+- Aus welchem Jahr ist die vorliegende Quelle? Jahr des Schreibens, Jahr der Veröffentlichung usw.? → Satz sollte in Isolation stehen können

@@ -37,7 +37,7 @@ SPDX-License-Identifier: AGPL-3.0
 
 ## Overview
 
-1. What is the scientific method
+1. What is the scientific method?
 2. Formulating scientific questions
 3. Designing experiments
 4. Analyzing experiments
@@ -73,3 +73,103 @@ SPDX-License-Identifier: AGPL-3.0
 - Structure of the paper
 - Visual style (used fonts, formatting etc.)
 - Quote style (standardized quotes)
+
+## Formulating Scientific Questions
+
+### Logic and Conclusion
+
+- Argumentation
+- Logical conclusions
+- Proofs (i.e. mathematical proofs)
+- Experiments and their design, execution and analysis
+- New analysis is always based on existing knowledge
+- There are different levels of formalism: Argumentation, validation, predicate-based proofs
+- Referencing ideas can be done in an "informal" way (whitepapers etc.), but they must not be the base of any claims!
+
+### The Purpose of Writing
+
+- Communication is the primary purpose of scientific writing
+- But scientific writing is also a means of analysis
+  - Formulating thesis helps to grasp the connections between arguments
+  - Clear formulation makes it much harder to avoid critical questions
+  - Gaps in analysis and open questions become obvious and lead to new research opportunities
+  - Writing leads to a deeper internal understanding
+- Even if scientific writing is limited to Uni, research methods are always required
+
+### The Scientific Thought Model
+
+1. Outlook
+2. Own research
+   1. Discussion
+   2. Proofs, research, experiments, studies
+   3. Hypothesis, underlying idea
+3. Summary of the current state of research/technology ("related work")
+4. Sources (own and external)
+
+### Quality Assurance
+
+- New ideas should be able to be based on existing works
+- Peer reviews try to check the quality of scientific works and ensures that existing work can serve as a solid base
+- Own share of own work must be made obvious
+
+### Scientific Questions
+
+- Formulation a concrete question is required in order to reduce the scope of topics
+- The question doesn't have to be clear in the beginning of the writing process, but must be at the end
+- The focus is always on the question, not the means: "Does the raft algorithm work reliably?" for example would not include/require an implementation of the raft algorithm, so always make the implementation a requirement of the question!
+- The scientific question is not the title of the paper
+- Just like the goals of the research need to be clearly defined, the "non-goals" need to be too!
+
+### Experiments
+
+- Gathering of data
+- Hypothesis
+  - Creating the hypothesis
+  - Designing the experiment
+  - Executing the experiment
+  - Testing the hypothesis with the result
+  - Further, refined hypothesis ideas
+- The hypothesis is often "my idea/solution/architecture works"
+  - Experiments support the hypothesis
+  - Paper then describes the current technological state, experiments and results
+- All dependencies and state required to reproduce the experiment must be notes
+
+### Methods of Experiments
+
+1. Design
+   1. Matches the scientific question
+   2. Creativity is required
+   3. Viability in time, budget and with available technology
+2. Planning
+   1. Prevention of side effects
+   2. No convenience samples
+   3. No unethical experiments
+3. Execution
+   1. With proper process
+   2. Proper documentation, including all unexpected incidents
+4. Analysis
+   1. Objective analysis
+   2. No suppression of "unwanted" results
+5. Interpretation
+   1. Objective interpretation
+   2. Usage of statistics: Is the result even statistically relevant?
+   3. Testing the feedback loop: Has the research question actually been answered?
+6. Description: Include all information required to reproduce the experiment
+7. Archiving: Storage of raw data and analysis ("data can only be preserved if it massively replicated!")
+
+### Hypothesis
+
+- Verification using proofs
+- Validation based on empirical data
+- Multiple supporting hypothesis can build a theory
+
+### Experiment Design
+
+- Experiments should produce a result
+- Testing in a specific set of parameters
+  - Searching for optimal parameter combinations
+  - Checking for valid sets
+- Sensitivity analysis
+  - Checking the hypothesis with parameters
+  - Checking if parameters influence results
+- Hypothesis tests: Statistically testing the results of experiments

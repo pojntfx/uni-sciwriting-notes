@@ -92,5 +92,8 @@ SPDX-License-Identifier: AGPL-3.0
 - Randbedingung, dass Entwickler:innen ähnliches Vorwissen haben
 - Randbedingung, dass vergleichbare Beispielapps mit und ohne Tool entwickelt werden können
 - Randbedingung, dass Entwickler:innen gewissenhaft Zeiten eintragen
+- Randbedingung, wie viel Zeit d. Autor:in für das Experiment hat
 - Annahme, dass Entwickler:innen bei gleicher Komplexität vergleichbar lange für die Entwicklung brauchen
 - Annahme, dass Entwickler:innen ähnliche vergleichbaren Tools zuvor verwendet hatten
+- Annahme, dass Entwickler:innen erholt und ungestört sind während der Teilnahme
+- Annahme, dass Entwickler:innen keinen Bias für die Tools haben

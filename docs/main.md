@@ -173,3 +173,123 @@ SPDX-License-Identifier: AGPL-3.0
   - Checking the hypothesis with parameters
   - Checking if parameters influence results
 - Hypothesis tests: Statistically testing the results of experiments
+
+### Analysis
+
+- Be neutral
+- Always ask question about results, even if they are positive
+- Search for additional sources
+- Comment on unknown factors, don't hide them - they are means of finding the next topic to research on!
+
+### Working with "Outliers"
+
+- Don't remove or ignore them
+- Test if they are relevant: Do more research - are they statistically relevant?
+- If they are not relevant: Classify and document
+
+### Comparisons
+
+- The new is not automatically better
+  - Comparison with a baseline reference is required
+  - Detailed description of the reference system used is required
+- Define the used dimensions for the comparison
+  - Differences often occur in different dimensions
+  - Elaborate why dimensions are being used
+- Fair basis: i.e. not using an under powered server
+- Also point out that the tool might perform worse under different dimensions (i.e. memory constrained systems)
+- Comparison by
+  - Comparison the reference solution and the new solution
+  - Comparison of the new solution with existing literature
+
+## Planning Scientific Papers
+
+### Exposé
+
+- Might be required
+- Significant research requires planning
+  - Assessment of feasibility
+  - Usage of time slots
+  - Focus on the most important goals or topics
+- Short description of the planned research
+  - Which problem is the basis of the planned research?
+  - Prior, existing research and open questions
+  - The main scientific question: Which question is the research going to answer?
+  - Goal of the research
+  - What theories is the research based on
+  - Methods
+  - Materials
+  - Structure
+  - How much time are the individual slots expected to take
+
+### Structure
+
+- Based on argumentation or path of discovery
+- Balanced
+- Not too much hierarchy
+- Minimum length of the chapters and sections
+- Total average ~50-60 pages
+- Per chapter ~3-10 pages
+- Typical:
+  - Abstract (no section number, in both English and German)
+  - Introduction (including overview)
+  - Related work
+  - Main investigation (multiple sections)
+  - Results
+  - Summary and conclusions
+  - References
+
+### Basic Procedure
+
+- Clarification
+  - Which questions should be answered?
+  - What are the non-goals?
+- Creating the project plan
+- Getting up to date from a technical perspective
+  - Which state is the research based on?
+  - Search and analyzing papers
+- Own works
+  - Sometimes simply structuring the comparison
+  - Normally: Experiments!
+    - Definition
+    - Execution
+    - Analysis
+- Selecting tools (BibTeX, LaTeX)
+- Sketching
+  - Creating a structure (i.e. mind maps)
+  - Taking note of keywords and images
+- Writing
+  - Main section
+  - Introduction
+  - Abstract and summary
+- Last checks
+
+### Planning
+
+- Every project needs planning
+- Sketched planning needs to happen early in the project
+  - Literature studies are often underestimated
+  - Own works
+  - Writing (min. four weeks before time is over!)
+- More fine-tuned research with more knowledge
+- Current state of research must be checked during own research
+- Immediate active countermeasures are required
+  - Plan must be changed
+  - Asses severity of changes
+
+### Planning the Main Section
+
+- Structure is central
+- Amount of pages per section is required
+- Contents per section must be planned: Keywords, sources, images
+- Writing takes time; start writing meta before actually starting to write
+
+### Planning the Paper for this Module
+
+- Formulating the scientific question
+- Creating a structure
+- Searching and analysising literature
+- Refining the structure (two layers) including page numbers
+- Selecting graphics (with sources)
+- Writing
+- Checking
+- Submitting the paper

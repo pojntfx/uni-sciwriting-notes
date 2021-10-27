@@ -287,7 +287,7 @@ SPDX-License-Identifier: AGPL-3.0
 
 - Formulating the scientific question
 - Creating a structure
-- Searching and analysising literature
+- Searching and analyzing literature
 - Refining the structure (two layers) including page numbers
 - Selecting graphics (with sources)
 - Writing

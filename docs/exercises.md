@@ -97,3 +97,30 @@ SPDX-License-Identifier: AGPL-3.0
 - Annahme, dass Entwickler:innen ähnliche vergleichbaren Tools zuvor verwendet hatten
 - Annahme, dass Entwickler:innen erholt und ungestört sind während der Teilnahme
 - Annahme, dass Entwickler:innen keinen Bias für die Tools haben
+
+#### 2021-10-27
+
+**Entwerfen Sie eine Gliederung für Ihre Arbeit zur Frage „Kann man mit Tool A zur Cross-Platform-Entwicklung von Apps Zeit sparen im Vergleich zur nativen Entwicklung?“ und annotieren Sie diese mit der passenden Anzahl von Seiten für eine 50-seitige Abschlussarbeit.**
+
+1. Abstract (1/4 Seite)
+2. Einführung und Überblick (1 Seite)
+3. Vergleich von und Einblick in existierende Literatur (3 Seiten)
+4. Beschreibung eigener Experimente und Recherche (10 Seiten)
+   1. Entwicklung einer Beispielanwendung mit und ohne Tools
+5. Ergebnisse
+   1. Wie lang haben Entwickler:innen, welche das Tool verwenden, im Durchschnitt und Median gebraucht? Wie lange ohne Tool? (7 Seiten)
+   2. Differenzen pro Entwickler:innen mit Tool und ohne Tool? (7 Seiten)
+   3. Wie unterscheiden sich die erstellten Anwendungen bzgl. Performance und HIGs? (7 Seiten)
+6. Zusammenfassung und Schlussfolgerung (15 Seiten)
+7. Referenzen
+
+**Entwerfen Sie einen Projektplan für Ihre Abschlussarbeit zu diesem Thema.**
+
+1. Formulieren der Forschungsfrage
+2. Erstellen der Gliederung
+3. Recherche nach bestehender Literatur
+4. Verfeinern der Gliederung; mehr Hierarchie, mit Seitenzahlen
+5. Auswahl bzw. Erstellung von Grafiken
+6. Min. 4 Wochen vor Abgabedatum: Schreiben der Abschlussarbeit
+7. Prüfen der Abschlussarbeit
+8. Abgabe der Abschlussarbeit

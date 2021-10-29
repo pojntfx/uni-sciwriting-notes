@@ -102,11 +102,20 @@ SPDX-License-Identifier: AGPL-3.0
 
 **Entwerfen Sie eine Gliederung für Ihre Arbeit zur Frage „Kann man mit Tool A zur Cross-Platform-Entwicklung von Apps Zeit sparen im Vergleich zur nativen Entwicklung?“ und annotieren Sie diese mit der passenden Anzahl von Seiten für eine 50-seitige Abschlussarbeit.**
 
-1. Abstract (1/4 Seite)
+Titel: Das Tool A in der Cross-Platform-Entwicklung: Ein Effizienzvergleich
+
+1. Abstract/Kurzfassung (1/4 Seite)
 2. Einführung und Überblick (1 Seite)
+   1. Motivation
+   2. Zielsetzung und Abgrenzung der Arbeit
 3. Vergleich von und Einblick in existierende Literatur (3 Seiten)
+   1. Bisherige Untersuchungen
+   2. Offene Forschungsfragen
 4. Beschreibung eigener Experimente und Recherche (10 Seiten)
-   1. Entwicklung einer Beispielanwendung mit und ohne Tools
+   1. Randbedingungen
+   2. Anforderungen der Beispielantworten
+   3. Entwicklung ohne Tool
+   4. Entwicklung mit Tool
 5. Ergebnisse
    1. Wie lang haben Entwickler:innen, welche das Tool verwenden, im Durchschnitt und Median gebraucht? Wie lange ohne Tool? (7 Seiten)
    2. Differenzen pro Entwickler:innen mit Tool und ohne Tool? (7 Seiten)
@@ -115,6 +124,38 @@ SPDX-License-Identifier: AGPL-3.0
 7. Referenzen
 
 **Entwerfen Sie einen Projektplan für Ihre Abschlussarbeit zu diesem Thema.**
+
+Zeitlich:
+
+1. Vorbereitung
+   1. Formalien
+   2. Zeitplan
+2. Recherche
+   1. Literatursuche
+   2. Einsicht/Relevanz
+   3. Recherche/Lesen
+   4. Datenerhebung
+   5. Datenauswertung
+   6. Aufsetzen und Durchführungen des Experiments
+   7. Material sortieren
+3. Schreiben
+   1. Gliederung
+   2. Forschungsfrage
+   3. Experiment-Durchfuhrung
+   4. Einleitung
+   5. Hauptteil
+   6. Schluss
+   7. Grafiken erstellen und Hinzufügen
+   8. Bereits aufgenommene Infos ergänzen
+4. Korrektur
+   1. Gegenlesen lassen von mind. 3 Personen
+   2. Formatierungen prüfen
+   3. Literaturverweise prüfen
+5. Abgabe
+   1. Drucken & binden 3x
+   2. Abgabe
+
+Logisch:
 
 1. Formulieren der Forschungsfrage
 2. Erstellen der Gliederung

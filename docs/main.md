@@ -293,3 +293,82 @@ SPDX-License-Identifier: AGPL-3.0
 - Writing
 - Checking
 - Submitting the paper
+
+## Researching Topics and Staying Up-to-Date
+
+### Sources
+
+- Web
+- Wiki
+- Google
+- Libraries: Books and articles
+- Journals and conferences: Finding journals, special issues, searching for articles
+- Use catalogs
+
+### Research
+
+1. Starting with research
+   1. Internet (Wikipedia, Library Genesis, Sci-Hub, Scholar, CiteSeerX, arXiv, ResearchGate)
+   2. Libraries
+   3. Journals
+2. Skimming the first articles
+3. Doing more research on interesting literature
+   1. Finding the primary source
+   2. Finding papers which have been cited often
+4. Finding related authors and researching their latest papers
+
+### Skimming Papers
+
+- Don't start by reading the paper from start to finish
+- What did the authors do?
+  - New understanding of existing systems
+  - New solutions for the issue
+  - Explanation of a new research question (with or without a solution)
+  - Reviewing existing solutions or ideas
+- What is the result of the paper?
+- Don't check only the abstract - skim for keywords too!
+- Analyze included graphics
+- Checking the title
+- Checking figure descriptions
+- Don't check all math unless necessary (which it mostly isn't)
+
+### Reading Papers
+
+- Maintaining a critical view: Many papers over-promise and under-deliver
+- Still: Skim the paper first
+- Extracting main expressions
+- Only read subjects in detail which are interesting for the research topic
+
+### Critical Reading
+
+- Be aware of deceptive terminology
+- Don't use "common sense"
+- Note implicit and explicit assumptions, approximations: Are they warranted?
+
+### Documenting the Reading Process
+
+- Excerpts
+  - In sections or with paraphrasing
+  - What is the topic? What is being published on it?
+- Creating a summary
+- Paraphrasing
+- Adding comments
+- Visualizations: Mind maps, concepts maps or logical formulas
+
+### Critiquing Papers
+
+- **Scientifc Standards**: Scientifc questions, methods, literature and other sources
+- **Ideology**: Author's bias and own ideology
+- **Context**: In reality, norms-values-means
+- **Argumentation**: Facts, experiences, norms-values-means, authority
+
+### Re-Definitions
+
+- As it is known, ... → I think, ...
+- It is obvious ... → I think, ...
+- Maybe one could argue, that → I'm not sure what to think
+- There is consensus → Some people think
+- For obvious reasons → I have no proof
+- There is no doubt → I am sure
+- It is likely → I have no proof and don't have the time to check
+- It is not necessary to take a closer look → I do not want to take a closer look

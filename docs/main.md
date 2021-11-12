@@ -372,3 +372,167 @@ SPDX-License-Identifier: AGPL-3.0
 - There is no doubt → I am sure
 - It is likely → I have no proof and don't have the time to check
 - It is not necessary to take a closer look → I do not want to take a closer look
+
+TODO: Add section on referencing other works
+
+## Writing a Scientific Paper
+
+### Diligence
+
+- **Formally**: A general diligence guideline is mandatory in scientific writing
+- **Practically**: Spelling, syntax and layout issues
+  - Readers get more critical and find more errors
+  - Worse marks
+
+### Types of Papers
+
+- Survey papers: Overview of a subject
+- Scientific protocol: Documentation and interpretation of a experiments
+- Research paper
+- Thesis (BSc, MSc, PhD)
+- Certificate
+
+### Types of Documents
+
+- Protocol
+- Whitepaper
+- Specification
+- Offers
+- Presentation
+- Advertisement
+- Functional descriptions
+- Manuals
+- Press releases
+- Patents
+- News articles
+- Blogposts
+
+### Choice of Language
+
+- German
+  - Easier as a native speaker
+  - Many proofreaders
+- English
+  - Important for all relevant documents
+  - More readers
+
+### Tips on Style
+
+- Writing is an exercise
+- Structure is a hard requirement
+- No suspense
+- Use simple and clear styles
+- Rather try to impress with content than with complex sentences
+- Clearness is important, because it is required in the job, makes reading and writing easier and is polite to the reader
+- Use foreign words with care
+- Keep the audience in mind
+
+### How to Deal with Writer's Block?
+
+- Deadlocks?
+- Just start writing _anything_
+- Work on structure instead
+- Creating a mind map
+- Don't trash drafts, refactor them instead
+
+### Title Style
+
+- Scientific question != title (title should not be a question)
+- Don't be too general or to precise
+- Must contain the main theme
+
+### Writing the Abstract
+
+- Short summary of the subject's field and the solution
+- Must include the result (should _not_ build suspense)
+- Should not contain short abbreviations, references, formulas and sentences like "In this paper ..."
+- ~250 words
+- Should be in English and German
+- Current and future relevance of the subject
+- Contexts in which the subject has been analyzed
+
+### Writing the Overview
+
+- Last section of the introduction (first section)
+- Shows the relations and dependencies between the sections
+- Should not just reiterate the table of contents
+
+### Writing the "Related Work" Section
+
+- Overview of prior and similar work
+- Creates the base/foundation of knowledge
+- Who researched what?
+- Where has the result been published?
+- Which problems have not been solved in prior work?
+- In which context does the work stand to related work?
+- Should exist before starting to write!
+
+### Writing the Outlook Section
+
+- Was has been researched?
+- What could be improved?
+- Short summary of the results
+- Meaning of the results
+- Which problems could not be solved?
+- Judgement of the implementation
+- Learned experiences
+- New contexts to other research topics
+
+### Writing the Acknowledgements Section
+
+- Not a formal requirement, but a social requirement
+- Especially relevant if access to internal info or external unis has been provided
+- Can be used for other sources or ideas that can't be formally sourced
+
+### Scientific Grammar and Style
+
+- Third person
+- Simple past
+- Never reference self or other groups/people
+- Short sentences and words
+- Don't repeat formulations but do repeat words instead of using synonyms (server, node, VPS etc. - choose one!)
+- Use SI units
+- Use significant figures
+- Use consistent list style, examples, unit structure (Mbit/s instead Mbps, Mbit/sec etc.)
+- The first sentence of each paragraph should be the paragraph's introduction
+- Define acronyms
+- Simple and reserved
+- Should leave no space for interpretation
+
+### Embedding Figures
+
+- Always numerated
+- Must have an alt text
+- Referenced in text by figure number
+- Text must _never_ flow to the left or right of the figure
+- Source can be in alt text (i.e. "(...) using data from \[3\]")
+
+### Infographics
+
+- Diagrams (ER, UML etc.)
+- Code or pseudocode
+- Sequential numbering of tables and figures
+- Tables must have their titles on their top
+- Figures must have their titles below
+- Use consistent font sizes for descriptions
+
+### Common Mistakes
+
+- Spelling
+- Style/Syntax
+- It's a project description, not a scientific paper
+- Separating defects
+- Broken references
+- Missing alt texts
+- Text in description of graphics too small
+- Inconsistent terminology
+
+### Last Checks
+
+- Spelling (i.e. LTex for LaTeX)
+- Check if all diagrams and graphics
+- Check for broken References
+- Empty pages
+- Do all graphics work in black/white?
+- Have all acronyms been introduced before they have been used?
+- Always re-check everything after fixing

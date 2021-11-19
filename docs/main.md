@@ -47,6 +47,7 @@ SPDX-License-Identifier: AGPL-3.0
    2. Analyzing papers
    3. Referencing papers
 7. Writing a scientific paper
+8. LaTeX
 
 ## What is the Scientific Method?
 

@@ -1,0 +1,108 @@
+\documentclass{scrartcl}
+\usepackage{hyperref}
+\usepackage{harvard}
+
+\newcommand{\eref}[1]{(\ref{#1})}
+\setlength\parindent{0pt}
+
+\begin{document}
+\title{Our Text Document}
+\author{Felicitas Pojtinger}
+\date{}
+\maketitle
+
+\begin{abstract}
+    Molestiae voluptates blanditiis facere explicabo sint. Iusto et omnis. Unde tenetur illo voluptas.
+\end{abstract}
+
+\section{Introduction}
+
+Quisquam inventore tenetur occaecati saepe sint. Ipsa et qui sed quas et inventore nam. Recusandae qui perspiciatis sunt et quidem earum perspiciatis. Minima qui similique id pariatur. Ducimus assumenda aliquam.
+
+Sit ut sed aut. Qui impedit eius quasi natus nesciunt. Aut sed assumenda incidunt omnis repudiandae dignissimos reprehenderit omnis quibusdam. Sit qui sapiente nam animi et quos omnis at. Et et labore voluptatem at aut optio asperiores molestiae. Aut perspiciatis sit consequatur corporis laborum qui.
+
+Autem repellat sequi dolorum quisquam dolorem ab dolores sed. Voluptatem culpa qui et. Aut enim voluptate quia vel expedita repudiandae officiis et libero. Assumenda consequatur vero id placeat rerum qui qui aut et.
+
+\subsection{Initial State}
+\label{s.initial-state}
+
+\subsection{Overview of the Works}
+
+\section{Current State of Technology}
+
+See this equation:
+
+\begin{equation}
+    E=mc^2
+    \label{e.einstein}
+\end{equation}
+
+And another one\footnote{this awesome footnote}, compare with formula~\eref{e.einstein}:
+
+\begin{equation}
+    E=mc^\frac{5}{\sqrt{\sin^2\alpha + \cos^2\alpha}}
+\end{equation}
+
+\section{Methods}
+
+See section~\ref{s.initial-state} for \ldots.
+
+\section{Experiments}
+
+Source code is awesome:
+
+\begin{verbatim}
+for i, el := range els {
+    fmt.Println(el)
+}   
+\end{verbatim}
+
+Also, in C:
+
+\begin{verbatim}
+for (int i = 0; i < 10; i++)
+{
+    printf("%i", i);
+}
+\end{verbatim}
+
+We can also make \textbf{text strong} and \emph{emphasize text}!
+
+\section{Results}
+
+Lists are great:
+
+\begin{itemize}
+    \item They
+    \item Are
+    \item Awesome!
+\end{itemize}
+
+We can also number items:
+
+\begin{enumerate}
+    \item This
+    \item Is
+    \item Numbered
+\end{enumerate}
+
+\begin{table}
+    \caption{People}
+    \centering
+    \begin{tabular}[]{|l|l|l|}
+        \hline
+        \textbf{Name} & \textbf{Street}    & \textbf{Pronouns} \\\hline
+        Jane          & 1 Drew Street      & she/her           \\\hline
+        Joe           & 2 Hacker Street    & he/him            \\\hline
+        Jean          & 1337 Hacker Street & they/them         \\\hline
+    \end{tabular}
+\end{table}
+
+\section{Summary and Overview}
+
+Even Neumann~\cite{Haines_Ruby_CFF_Library_2021} has shown it in section~\ref{e.einstein}.
+
+\bibliographystyle{kluwer}
+\bibliography{cit}
+
+\end{document}

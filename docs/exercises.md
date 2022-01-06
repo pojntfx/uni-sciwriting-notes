@@ -1,8 +1,11 @@
-% Uni Scientific Exercises
-% Felicitas Pojtinger
-% \today
-\tableofcontents
-\newpage
+---
+author: [Felicitas Pojtinger]
+date: "2021-11-19"
+subject: "Uni Scientific Writing Exercises"
+keywords: [meta, scientific method, scientific writing]
+subtitle: "Exercises for the Anleitung zum wissenschaftlichen Arbeiten (scientific writing) course at HdM Stuttgart"
+lang: "en"
+---
 
 # Uni Scientific Exercises
 

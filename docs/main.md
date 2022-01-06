@@ -1,8 +1,11 @@
-% Uni Scientific Writing Notes
-% Felicitas Pojtinger
-% \today
-\tableofcontents
-\newpage
+---
+author: [Felicitas Pojtinger]
+date: "2021-11-19"
+subject: "Uni Scientific Writing Notes"
+keywords: [meta, scientific method, scientific writing]
+subtitle: "Notes for the Anleitung zum wissenschaftlichen Arbeiten (scientific writing) course at HdM Stuttgart"
+lang: "en"
+---
 
 # Uni Scientific Writing Notes
 

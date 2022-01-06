@@ -1,6 +1,0 @@
-Uni Scientific Writing Notes
-Notes for the Anleitung zum wissenschaftlichen Arbeiten (scientific writing) course at HdM Stuttgart.
-© 2021 Felicitas Pojtinger under AGPL-3.0
-https://github.com/pojntfx/uni-sciwriting-notes
-https://github.com/pojntfx/uni-sciwriting-notes/releases/latest/download/all.zip
-✍️ Happy writing!

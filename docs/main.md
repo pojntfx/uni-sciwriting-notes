@@ -379,6 +379,99 @@ SPDX-License-Identifier: AGPL-3.0
 
 TODO: Add section on referencing other works
 
+## Citation
+
+### Bibliography
+
+- Contains all read works
+  - Used sources
+  - Current state of research
+  - Support for argmentations
+  - Base for comparisons
+- In `.bib` file
+- Can be used for multiple papers
+
+### References
+
+- What
+  - Bibliographic references
+  - Own annotations
+    - Excerpts
+    - Comments
+    - Keywords
+    - Opinions
+  - Relation to other references
+- How
+  - Findable
+  - Extensible
+  - Linkable (in both directions)
+  - Useful in bibliography
+- Where: List or database
+
+### Using References
+
+- Before reading: Taking note of bibliographic data
+- While reading: Excerpts, annotation and links between references
+- While writing
+  - Citing directly (including page number)
+  - Automatic creation of references allows automatic import into word processing
+
+### Purpose of Citations
+
+- Showing which ideas came from whom and which publication
+- Often a requirement due to copyright restrictions (attribution)
+- Shows that relevant literature was consulted
+- Creates a chain of trust based on trusted sources
+- Can allow checking the novelty of a work (what is new, what is referenced?)
+
+### Evaluation of Source Quality
+
+- Sources must be verifiable and trusted, so peer-reviewed publications are the best basis
+- Wikipedia is a good entry point due to high quality and depth, but citing original sources is often the better choice
+- Blogs and popular science publications are useful for citing opinions and events, but should not be used to give an overview of the current state of technology
+- Whitepapers should only be used for research specific to the publisher's technology
+
+### Primary and Secondary Sources
+
+- **Primary source**: The first publication of an idea by its inventor
+- **Secondary source**: Recitation or analysis of an idea
+- Reading primary sources allows checkng if secondary sources have maybe misrepresented studies or used out-of-context quotes
+
+### Languages
+
+- In non-English publications, using both sources in the native language and English is acceptable
+- In English publications, non-English publications should only be cited if no other sources could be found
+
+### Quotes
+
+- Short quotes must always be marked using `"`
+- Longer quotes should be in an own paragraph and have a different style
+- Require exact source, including page number
+- Have to be 1:1 representation
+  - Including punctuation and writing style
+  - Mark exclusions and own additions with `[]`
+- Should be from primary source
+- Quotes are not typically used in informatics papers, except for loosening up the structure or to introduce chapters; in social sciences, they are used more frequently, as they can be a subject to analysis (i.e. in literature analysis)
+
+### Reference Style
+
+- Reference should link to an information source
+- Using a reference means that the statement of the work inherit the quality properties of the reference, as it is based on it
+- Source reference must contain the relevant data to uniquely identify a source
+- Different styles are available
+  - Chicago style (EU method)
+  - Harvard style
+  - Legal style (footnotes)
+
+### Literature List
+
+- Contains properties for each source
+  - Name of authors
+  - Title of publication
+  - Name, volume, year, edition and page number
+  - Publisher, location, date of publication
+- BibTeX can generate literature lists for most styles
+
 ## Writing a Scientific Paper
 
 ### Diligence

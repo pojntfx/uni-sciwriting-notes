@@ -72,7 +72,7 @@ diese Ergebnisse kommen?:
     die Unterschiede erklären könnte
 -   Methodik der beiden Quellen untersuchen: Was ist ein “lokales
     Netzwerk” - z.B. sind sowohl ein kabelgebundes LAN und ein
-    WLAN-Netzwerk ein “lokales Netzwerk”, haben aber unerschiedliche
+    WLAN-Netzwerk ein “lokales Netzwerk,” haben aber unerschiedliche
     Charakteristika
 -   Nach weiteren Quellen suchen
 -   Nach Metaanalysen von Papern zum Thema suchen

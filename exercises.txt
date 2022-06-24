@@ -1,5 +1,5 @@
 Uni Scientific Exercises
-Felix Pojtinger
+Felicitas Pojtinger
 2021-11-19
 
 -   1 Introduction
@@ -28,7 +28,7 @@ License
 
 [AGPL-3.0 license badge]
 
-Uni Scientific Exercises (c) 2021 Felix Pojtinger and contributors
+Uni Scientific Exercises (c) 2021 Felicitas Pojtinger and contributors
 
 SPDX-License-Identifier: AGPL-3.0
 

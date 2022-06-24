@@ -1,3 +1,9 @@
+commit 494a472e32c41e953c9a876344a8e2ebcc8612a0
+Author: Felicitas Pojtinger <felicitas@pojtinger.com>
+Date:   Fri Jun 24 18:54:49 2022 +0200
+
+    chore: Update personal info
+
 commit f3108857be6ecb491500eb851fa66a0fe3c9e5af
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Thu Jan 6 22:06:54 2022 +0100

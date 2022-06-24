@@ -87,7 +87,8 @@ License
 
 [AGPL-3.0 license badge]
 
-Uni Scientific Writing Notes (c) 2021 Felicitas Pojtinger and contributors
+Uni Scientific Writing Notes (c) 2021 Felicitas Pojtinger and
+contributors
 
 SPDX-License-Identifier: AGPL-3.0
 

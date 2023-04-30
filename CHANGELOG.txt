@@ -1,76 +1,70 @@
-commit 494a472e32c41e953c9a876344a8e2ebcc8612a0
-Author: Felicitas Pojtinger <felicitas@pojtinger.com>
-Date:   Fri Jun 24 18:54:49 2022 +0200
-
-    chore: Update personal info
-
-commit f3108857be6ecb491500eb851fa66a0fe3c9e5af
+commit b209e577bf91509494a673ed5e8ef8a5d9bd5bd6
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Thu Jan 6 22:06:54 2022 +0100
 
     feat: Add section on citation
 
-commit 11081d732861ae319951ca2946bdf06412bcc943
+commit 9de0f67dd58c71ac87e1c0a87924ca9e5be0d86f
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Thu Jan 6 20:39:04 2022 +0100
 
     feat: Use Deliverance CI
 
-commit 8a6e6dd6636b4c2fb67e9c1592d470ff2957001d
+commit 9e380168c5f7e51bae5dc449ea03835a6a6fb3cd
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Fri Nov 19 13:19:10 2021 +0100
 
     feat: Add LaTeX section
 
-commit 62092c9512f055a1280017a19a2234a9101ea73d
+commit ba19e907f7c7058a7abbf843c8a2706db321ac99
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Fri Nov 12 14:03:48 2021 +0100
 
     feat: Add section on scientific style
 
-commit b4b812a41f60efb357b0b78161dd894915f303e9
+commit 742d69eb6438f49a8eb617b820d99ca8d5cd5c3f
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Fri Oct 29 13:12:18 2021 +0200
 
     feat: Add notes on research strategies
 
-commit 83d82242743f66111aa7be32dfc1b7ef07ef54a0
+commit dbd2560fcf70a3159c5d3c5bb3a6edb143011e02
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Wed Oct 27 23:32:50 2021 +0200
 
     feat: Add latest notes
 
-commit 7e7c769de1667cf90a5295b9051bd0ac8d05031e
+commit 1f0fbb279ed1aa748622bf3e60d3aaefc9b5e1b3
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Fri Oct 22 13:17:30 2021 +0200
 
     feat: Add section on planning
 
-commit 35f5cc4f046cd0680e8ebde52a44fd67cca2a86c
+commit 9fec5dffe0a826f65996fa378909caf79655dfe2
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Tue Oct 19 22:10:57 2021 +0200
 
     feat: Add latest exercise
 
-commit 91a6e993246f6eb5bd67afb48af2bc6fb3b29e8b
+commit eeb76d0bb1d0c40b515060d54198eb22dedca887
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Fri Oct 15 13:16:14 2021 +0200
 
     feat: Add experiments section
 
-commit 22d1a9ec5737b738fec33b25addb7312385b8772
+commit bec41aaaea23e03bdf0fca270ab989af1ba32aae
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Mon Oct 11 13:33:24 2021 +0200
 
     docs: Add 2021-10-08's research results
 
-commit 3547ba41c616958f494c720f662fb36c83f1b138
+commit f5161563dcf76770f0c310759cb01f221948dd9b
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Fri Oct 8 12:59:12 2021 +0200
 
     feat: Add initial notes on the scientific notes
 
-commit 4da4d9019eb0a07f6f1126d071780dfeda872fb9
+commit 58ab0d5bcbfd5f1740cc354d0c9867d0985a0e58
 Author: Felicitas Pojtinger <felicitas@pojtinger.com>
 Date:   Fri Oct 8 11:50:15 2021 +0200
 
